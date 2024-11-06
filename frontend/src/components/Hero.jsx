@@ -6,7 +6,7 @@ const Hero = ({title, imageUrl}) => {
             <div className="banner">
                 <h1>{title}</h1>
                 <p>
-                CareStream is a state-of-the-art hospital management system that
+                ZeeCare is a state-of-the-art hospital management system that
                 enhances healthcare operations through precision-driven solutions. 
                 It streamlines patient care and administrative processes, ensuring 
                 operational excellence and improved patient outcomes with advanced,efficient tools.

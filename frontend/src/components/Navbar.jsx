@@ -11,7 +11,7 @@ const Navbar = () => {
     const [show, setShow] = useState(false);
     const {isAuthenticated, setIsAuthenticated} = useContext(Context);
 
-    const navigateTo = useNavigate()
+    const navigateTo = useNavigate();
 
     const handleLogout = async() =>{
         

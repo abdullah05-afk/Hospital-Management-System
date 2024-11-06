@@ -38,7 +38,8 @@ const Login = () => {
         return <Navigate to={"/"}/>;
     }
 
-    return (  <div className="container form-component login-form">
+    return (  
+    <div className="container form-component login-form">
         <h2>Sign In</h2>
         <p>Login To Continue</p>
         <p>"CareStream empowers healthcare through seamless, efficient management, bridging patients and providers with innovation."</p>

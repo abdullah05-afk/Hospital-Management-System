@@ -13,8 +13,8 @@ import { Context } from './main';
 import CursorHole from './components/CursorHole';
 import Footer from './components/Footer';
 
-
 const App = () =>{
+  
   const { isAuthenticated, setIsAuthenticated, setuser} = useContext(Context);
   useEffect(() =>{
     const fetchUser = async() =>{
@@ -24,7 +24,7 @@ const App = () =>{
          setuser(response.data.user);
       } catch (error) {
         setIsAuthenticated(false);
-        setUser({});
+        setuser({});
         
       }
     };
