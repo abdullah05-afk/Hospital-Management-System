@@ -1,5 +1,0 @@
-npm i axios: is used for sending request to DB
-npm react-icons: is used for icons pakage
-npm-multi-carsouel: is used for make slider 
-npm-react-dom: is used for nevagation when we moved from one page to an other page
-npm-react-toastify: is used for alert messages

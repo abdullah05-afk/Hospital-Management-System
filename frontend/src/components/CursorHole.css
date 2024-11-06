@@ -6,7 +6,7 @@ body {
     position: absolute;
     width: 50px;
     height: 50px;
-    background: rgb(37, 13, 14);
+    background: rgb(42, 182, 170);
     border-radius: 50%;
     pointer-events: none;
     mix-blend-mode: multiply; /* Optional: creates a blending effect */

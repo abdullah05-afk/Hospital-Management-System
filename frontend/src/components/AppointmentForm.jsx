@@ -7,7 +7,7 @@ const AppointmentForm = () => {
     const [firstName, setFirstName] = useState("");
     const [lastName, setLastName] = useState("");
     const [email, setEmail] = useState("");
-    const [phone, setPhone] = useState("");
+    const [phone, setPhone] = useState(""); 
     const [nic, setNic] = useState("");
     const [dob, setDob] = useState("");
     const [gender, setGender] = useState("");

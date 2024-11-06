@@ -1,4 +1,4 @@
-// src/components/CursorHole.jsx
+//src/components/CursorHole.jsx
 import React, { useEffect, useRef } from 'react';
 import './CursorHole.css'; // Import the CSS file
 
